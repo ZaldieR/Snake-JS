@@ -8,3 +8,5 @@ With this little project I wanted to discover the basis of making a game in JS.
 
 You can try my project here:
 https://mathis-lorenzo.github.io/Snake-JS/
+
+
